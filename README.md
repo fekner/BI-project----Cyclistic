@@ -23,7 +23,7 @@ The resulting documents are found in the Planning folder.
    - Necessary data was gathered and combined.
    - Reporting tables that could be uploaded to Tableau to create the final dashboard were designed.
 
-The code created to merge the datasets into two target tables are found under the Code folder. 
+The code created to merge the datasets into two target tables is found under the Code folder. 
 
 3. Dashboard Design
    - The project planning documents were used to identify key metrics and dashboard requirements.
